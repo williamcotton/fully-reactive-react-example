@@ -8,7 +8,7 @@ That's a good thing.
 
 ###Going reactive in the component
 
-Look how confusing this code is:
+Look how confusing and verbose it is to use Rx.Observable:
 
 ```js
 import React from 'react';
