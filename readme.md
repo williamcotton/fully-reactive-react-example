@@ -125,4 +125,4 @@ dist/bundle.min.js: dist/bundle.js
   uglifyjs $< -m -c > $@
 ```
 
-How about you wait until the simple way is not longer working for you until you decide to add complexity and verbosity to your code?
+Keep it simple, silly!
